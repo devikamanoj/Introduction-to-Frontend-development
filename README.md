@@ -1,1 +1,2 @@
-Introduction to front-end development
+# INTRODUCTION TO FRONT-END DEVELOPMENT
+
