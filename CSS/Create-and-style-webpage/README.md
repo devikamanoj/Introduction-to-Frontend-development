@@ -2,16 +2,6 @@
 
 In this exercise you will you will practice building your webpage using HTML and CSS.<br><br>
 
-> ### **Tips: Before you Begin**
-> #### **To view your code and instructions side-by-side**, select the following in your VSCode toolbar:
-> - View -> Editor Layout -> Two Columns
-> - To view this file in Preview mode, right click on this README.md file and `Open Preview`
-> - Select your code file in the code tree, which will open it up in a new VSCode tab.
-> - Drag your assessment code files over to the second column. 
-> - Great work! You can now see instructions and code at the same time. 
- <br><br> 
- 
-<br>
 
 ## Task 1: Create the HTML file. 
 
@@ -84,22 +74,3 @@ Follow the Step by Step instructions below:
 5. Add a CSS rule that applies a `margin` of `4` pixels to the divider elements.
 
 
-<br>
-
-
-
-## Final Step: Let's submit your code!
-Nice work! To complete this assessment:
-- Save your file through File -> Save 
-- Select "Submit Assignment" in your Lab toolbar. 
-
-Your code will be autograded and return feedback shortly on the "Grades" tab.  
-You can also see your score in your Programming Assignment "My Submission" tab.
-<br> <br> 
-
-### Tips
-
-* Make sure that HTML tags are closed properly.
-* Use a different heading type for your name.
-* Remember the box model.
-* Review the lessons *Creating a HTML document*, *Adding Images*, *Selecting and Styling*, and *Different types of selectors*.
